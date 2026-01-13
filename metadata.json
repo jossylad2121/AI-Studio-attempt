@@ -1,0 +1,5 @@
+{
+  "name": "Fish Coloring Page Generator",
+  "description": "A React web application that generates a black and white children's coloring book page of a happy cartoon fish using the Gemini API, featuring simple, bold black outlines and a clean white background.",
+  "requestFramePermissions": []
+}
